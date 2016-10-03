@@ -27,8 +27,7 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## 期待认识更多的朋友
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[关注我](https://github.com/TaylanTatli/Moon){: .btn}
+
+[关注我](https://wx2.qq.com/){: .btn}
