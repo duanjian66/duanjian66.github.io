@@ -5,8 +5,6 @@ tags: [about, me]
 date: 2016-10-3
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## 简介
 * 18届毕业生
