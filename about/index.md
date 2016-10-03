@@ -30,4 +30,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## 期待认识更多的朋友
 
 
-[关注我](https://5279737729.weibo.com/){: .btn}
+[关注我](http://weibo.com/u/5279737729?topnav=1&wvr=6&topsug=1&is_all=1){: .btn}
