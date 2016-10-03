@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 关于我
 tags: [about, me]
 date: 2016-10-3
 comments: false
@@ -8,17 +8,17 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 简介
+* 18届毕业生
+* 正在学习建筑设计
+* 乐观开朗，有时也会冷漠
+* 曾经的信仰型doter
+* 热爱建筑，喜欢一个人瞎搞
+* 期待未来
+
+
+
+*
 
 ## Preview
 
